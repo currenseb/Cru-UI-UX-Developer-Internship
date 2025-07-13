@@ -3,5 +3,5 @@ A portfolio of my work as a UI/UX Developer Intern at Cru headquarters during Su
 
 Examples Include:
 
-<img src="High Fidelity Mockups/Settings Mockups/Settings.png" width="250"/>
-<img src="High Fidelity Mockups/Settings Mockups/Information.png" alt="Login Screen" width="250"/>
+<img src="High Fidelity Mockups/Settings Mockups/Settings.png" width="500"/>
+<img src="High Fidelity Mockups/Settings Mockups/Information.png" alt="Login Screen" width="500"/>
